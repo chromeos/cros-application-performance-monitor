@@ -14,6 +14,11 @@ _`cpu.py`_
 - Measures CPU usage of the game and the device.
 - Type `python3 cpu.py --help` for more information.
 
+_`memory.py`_
+
+- Measures memory usage of the game and the device.
+- Type `python3 memory.py --help` for more information.
+
 ## Pre-requisites
 
 - Any computer with [ADB](https://developer.android.com/studio/command-line/adb) and Python3
